@@ -1,4 +1,4 @@
-import InstructionsComponent from "@/components/instructionsComponent";
+import InstructionsComponent from "@/src/components/instruction-component";
 import styles from "../styles/page.module.css";
 
 export default function Home() {

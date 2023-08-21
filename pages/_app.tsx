@@ -3,7 +3,7 @@ import "../styles/globals.css";
 import { AppProps } from "next/app";
 import { WagmiConfig, createConfig, sepolia } from "wagmi";
 import { ConnectKitProvider, getDefaultConfig } from "connectkit";
-import { localhost } from 'wagmi/chains'
+import { localhost } from "wagmi/chains";
 
 import Layout from "@/src/components/layout";
 
