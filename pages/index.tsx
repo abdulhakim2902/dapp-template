@@ -1,5 +1,5 @@
-import InstructionsComponent from "@/src/components/instruction-component";
-import styles from "../styles/page.module.css";
+import InstructionsComponent from "@/components/instruction-component";
+import styles from "@/styles/page.module.css";
 
 export default function Home() {
   return (
